@@ -31,6 +31,7 @@ Este jogo consiste num sistema de Hordas que seguem-se infinitamente ao longo do
     - Barra de rage (enche matando inimigos)
     - Duração pode ser aumentada comprando na loja (inicialmente 5seg de duração)
 
+---
 ### Referências
 
 - Jogo do palhaço (GEMAPLYS): https://www.youtube.com/watch?v=PyCDV68oQUg
