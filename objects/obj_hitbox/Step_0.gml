@@ -1,0 +1,1 @@
+x += lerp(10, obj_player.x, 10)
